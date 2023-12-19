@@ -1,1 +1,1 @@
-## This repo if focused on debugging existing code bases
+## This repo is focused on debugging existing code bases
