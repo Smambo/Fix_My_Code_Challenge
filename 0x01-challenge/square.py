@@ -26,6 +26,7 @@ class Square():
         """String representation of class."""
         return "{}/{}".format(self.width, self.height)
 
+
 if __name__ == "__main__":
     """Creates object."""
     s = square(width=12, height=9)
