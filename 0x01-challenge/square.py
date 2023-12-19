@@ -7,6 +7,7 @@ class Square:
     def __init__(self, width=0, height=0):
         """
         Instantiates Square class
+        
         Args:
         - width: Width of square
         - height: Height of square
@@ -17,6 +18,7 @@ class Square:
     def area_of_my_square(self):
         """
         Area of the square
+        
         Returns:
         Area of the square class.
         """
@@ -25,6 +27,7 @@ class Square:
     def perimeter_of_my_square(self):
         """
         Perimeter of the square.
+        
         Returns:
         perimeter of square class.
         """
@@ -33,6 +36,7 @@ class Square:
     def __str__(self):
         """
         String representation of class.
+        
         Returns:
         String representation of the square class
         in the below format.
